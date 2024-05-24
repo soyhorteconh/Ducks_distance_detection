@@ -1,4 +1,4 @@
-# Quack_track
+# Ducks distance detection
 ## Overview
 This project aims to detect ducks in a video moving in a grid and calculate their movement using computer vision techniques.
 
