@@ -26,14 +26,3 @@ python detect.py --weights best.pt --source ducks.mp4
 
 [![Demo del Proyecto](http://img.youtube.com/vi/olWXXbzrLfk/0.jpg)](http://www.youtube.com/watch?v=olWXXbzrLfk)
 
-
-## Dependencies
-- argparse
-- os
-- platform
-- sys
-- pathlib
-- numpy
-- cv2
-- matplotlib
-- torch
